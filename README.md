@@ -1,7 +1,7 @@
 # TokenLoger-Gen
 This will generate an obfuscated python token loger.
 
-just put your webhook inside the config.json file
+just put your webhook inside the config.json file, it iwll generate obfuscated and encoded python code in the output folder, like in the exmaple file
 
 # Legality
 Educational purpose only.
